@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-top{
+  background: black; 
+}
+
+.search{
+    margin-top: 10px;
+    position: relative;
+}
+.search .fa-search{
+    position: absolute;
+    top:7px;
+    left:150px;
+    font-size:15px;
+}
+.reg-area ul{
+    display: flex;
+}
+.reg-area ul li{
+    list-style: none;
+    padding: 5px;
+    color:aliceblue;
+}
+.header-next{
+   
+    background: #22313F;
+}
+.header-next .container{
+   
+   
+     
+    
+    
+}
+.menu-area1{
+    
+   
+}
+.menu-area1 ul{
+    display: flex;
+    
+}
+.menu-area1 ul li{
+    list-style: none;
+    padding: 15px;
+}
+.menu-area1 ul li a{
+    font-size: 15px;
+    text-transform: uppercase;
+    color:#fff;
+    
+}
+.menu-area1 ul li a:hover{
+    color: #95A5A6;
+    text-decoration: none;
+}
+
+.logo{
+    width: 80%;
+    position: relative;
+   
+    
+}
+.logo img{
+    width: 100%;
+    position: absolute;
+    border-radius: 70px;
+    border: 1px solid black;
+    margin-top: 5px;
+    left:0;
+}
+.menu-area2{
+    
+}
+.menu-area2 ul{
+    display: flex;
+}
+.menu-area2 ul li{
+    list-style: none;
+    padding: 15px;
+}
+.menu-area2 ul li a{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #fff;
+    
+}
+.menu-area2 ul li a:hover{
+    color: #95A5A6;
+    text-decoration: none;
+}
+
+
+
+.header-area .header-buttom{
+    background: url(img/img1.jpg);
+    padding: 175px;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 15px black;
+   
+    
+    
+    
+    
+}
+.header-buttom .container{
+   
+}
+.header-buttom h2{
+    color: #fff;
+    font-size: 50px;
+    
+}
+.header-buttom strong{
+    color:#DCC6E0;
+    font-size: 22px;
+    
+}
+.reg-area ul li a{
+    text-decoration: none;
+    color:#fff;
+}
+input{
+    margin-bottom: 8px;
+}
+.modal-body img{
+    margin-bottom: 5px;
+}
+.about-area{
+    padding: 65px 0;
+    background: #E4F1FE;
+}
+.item-icon i{
+    font-size:50px;
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+}
+.buttom{
+    
+}
+.item-text .fa-angle-right{
+    font-size: 20px;
+    padding: 5px;
+}
+.service-area{
+    padding: 40px;
+    background: black;
+}
+.service-area .container{
+    width: 60%;
+}
+.service-area ul{
+    list-style: none;
+}
+.service-area ul li{
+    color: #95A5A6;
+}
+.item-icons i{
+    font-size:20px;
+    display: inline;
+    padding: 10px;
+    color: #95A5A6;
+    float: left;
+  
+    
+}
+.box {
+    width: 300px;
+    background:#3C3F41;
+    height: 60px;
+    border-radius: 10px;
+     
+    
+    
+   
+    
+}
+.box p{
+    color: #95A5A6;
+     margin: 0 auto;
+    background: transparent;
+    font-size: 13px;
+    text-align: center;
+    
+}
+.location{
+    background: black;
+    margin-bottom: 0;
+}
+.location p{
+    color:#95A5A6;
+    font-size: 12px;
+}
+.location i{
+    font-size:15px;
+}
+.footer{
+    
+    margin: 0;
+    
+}
+
+.footer-area p{
+    color:#95A5A6;
+    text-align: center;
+}
+
